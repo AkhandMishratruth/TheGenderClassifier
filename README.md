@@ -1,6 +1,8 @@
 # TheGenderClassifier
 This project takes the images from camera and detects gender on the basis of its experience that it had learned from traning from 339 female faces and 291 male faces. This is machine learning project using logistic regression as a traning algorithm.
 
+In order to train on your own machine you might require to change some code where i'm loading or saving some files.
+
 Requirements.
 Python 2.4
 numpy
