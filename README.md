@@ -1,7 +1,7 @@
 # TheGenderClassifier
 This project takes the images from camera and detects gender on the basis of its experience that it had learned from traning from 339 female faces and 291 male faces. This is machine learning project using logistic regression as a traning algorithm.
 
-In order to train on your own machine you might require to change some code where i'm loading or saving some files.
+In order to train on your own machine you might require to change some code where i'm loading or saving some files. I have not uploaded the raw dataset but I have uploaded resized and croped datasets.
 
 Requirements.
 Python 2.4
@@ -15,7 +15,7 @@ Description of various script...
 
 ##COMPUTER VISION(PYTHON):
 
-BEGIN.PY- This is the main program which takes the feed from the camera, detect face and crop it.Then it loads a .mat file which is a pre-trained matrix trained from matlab.
+BEGIN.PY- This is the main program which takes the feed from the camera, detect face and crop it. Then it loads a ".mat" file which is a pre-trained matrix trained from matlab.
 
 FACE CROP- This is a simple program that was used to crop the dataset images which had used for training.
 
