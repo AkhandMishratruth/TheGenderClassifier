@@ -1,4 +1,4 @@
-# TheGenderClassifier
+## TheGenderClassifier
 This project takes the images from camera and detects gender on the basis of its experience that it had learned from traning from 339 female faces and 291 male faces. This is machine learning project using logistic regression as a traning algorithm.
 
 Requirements.
